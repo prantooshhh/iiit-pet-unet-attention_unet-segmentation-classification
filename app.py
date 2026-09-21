@@ -38,7 +38,7 @@ def get_model(model_choice):
 
     # REMINDER: Ensure 'YOUR_HF_USERNAME' matches your Hugging Face username
     weights_path = hf_hub_download(
-        repo_id="YOUR_HF_USERNAME/pet-segmentation-models", 
+        repo_id="prantooshhh/pet-segmentation-models", 
         filename=filename
     )
     
