@@ -2,7 +2,7 @@
 
 A multi-task deep learning project on the Oxford-IIIT Pet dataset. A single network predicts a binary foreground/background segmentation mask and the pet breed at the same time, using a shared encoder with two heads. Two architectures are implemented and compared: a standard U-Net and an Attention U-Net with attention gates on the skip connections.
 
-This project was done as part of the **Image Processing (CSE428)** course.
+You can try out with your own pet images from here: [Website](https://iiit-pet-unet-attentionunet-segmentation-classification-fnnmho.streamlit.app/) (deployed with streamlit)
 
 ---
 
