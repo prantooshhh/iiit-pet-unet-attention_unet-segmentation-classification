@@ -7,8 +7,8 @@ import torchvision.transforms as transforms
 from safetensors.torch import load_file
 from huggingface_hub import hf_hub_download
 
-# Import model architectures from model_architectures.py
-from model_architectures import UNet, AttentionUNet
+# Import model architectures from model_architecture.py
+from model_architecture import UNet, AttentionUNet
 
 # Class names mapping (0-36 IDs)
 BREED_CLASSES = [
