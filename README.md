@@ -4,6 +4,8 @@ A multi-task deep learning project on the Oxford-IIIT Pet dataset. A single netw
 
 You can try out with your own pet images from here: [Website](https://iiit-pet-unet-attentionunet-segmentation-classification-fnnmho.streamlit.app/) (deployed with streamlit)
 
+The model safetensors can be downloaded from here: [Models](https://huggingface.co/prantooshhh/pet-segmentation-models/tree/main)
+
 ---
 
 ## Table of Contents
